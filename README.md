@@ -3,7 +3,7 @@
 <p align="center">
   <br>
   <samp>
-    I'm <b><a rel="nofollow noopener noreferrer" target="_blank">Lucas</a></b>.
+    I'm <b><a rel="nofollow noopener noreferrer" target="_blank">JAMESxD#2207</a></b>.
     <br>CSharp And C++ dev<br>
 
 </samp>

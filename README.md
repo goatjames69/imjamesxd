@@ -1,12 +1,23 @@
-### Im JAMESxD#2207!
-[image](https://user-images.githubusercontent.com/129680954/236443574-8ff73a53-ec62-4315-8404-0a2bddef0d33.png)
-Full Stack Dev!
+![](https://komarev.com/ghpvc/?username=w6t&color=grey)         
 
-<!--
-**imjamesxd/imjamesxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <br>
+  <samp>
+    I'm <b><a rel="nofollow noopener noreferrer" target="_blank">Lucas</a></b>.
+    <br>CSharp And C++ dev<br>
 
-Here are some ideas to get you started:
+</samp>
 
-- 🔭 I’m currently working on cheats
-- 🌱 I’m currently learning imgui
--->
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+</p>
+
+<p align="center">
+  <br><br>
+  <img src="https://discord.c99.nl/widget/theme-4/831817809297276982.png">
+  <br><br>
+  <br>
+</p>
+
+<!--<a href="link" style="text-align: center">
+<!--<img src="https://discord.c99.nl/widget/theme-4/977344045712035870.png" align="center"></a> -->

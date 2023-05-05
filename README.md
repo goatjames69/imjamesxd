@@ -4,7 +4,7 @@
   <br>
   <samp>
     I'm <b><a rel="nofollow noopener noreferrer" target="_blank">JAMESxD#2207</a></b>.
-    <br>CSharp And C++ dev<br>
+    <br>Full Stack Dev!<br>
 
 </samp>
 

@@ -3,8 +3,8 @@
 <p align="center">
   <br>
   <samp>
-    I'm <b><a rel="nofollow noopener noreferrer" target="_blank">JAMESxD#2207</a></b>.
-    <br>Full Stack Dev!<br>
+    I'm <b><a rel="nofollow noopener noreferrer" target="_blank">goat james</a></b>.
+    <br>C# C++ Dev!<br>
 
 </samp>
 
